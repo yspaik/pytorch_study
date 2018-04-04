@@ -30,7 +30,7 @@ _Coursera Andrew Ng 강의에서의 Learning Rate 관련 장표_
 
 #### 각각의 파라미터에 대하여 개별 Learning Rate를 적용하는 경우
 기존의 optimizer 계보
-<img src="http://cfile27.uf.tistory.com/original/993D383359D86C280DD74F">
+<img src="https://image.slidesharecdn.com/random-170910154045/95/-49-638.jpg?cb=1505089848">
 
 <img src="http://teleported.in/post_imgs/15-Beale.gif">
 
