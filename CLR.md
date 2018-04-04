@@ -92,6 +92,8 @@ for iteration in range(num_iterations):
 plt.plot(lr_trend)
 ```
 
+<img src="http://teleported.in/post_imgs/15-clr-graph.png">
+
 ### base_lr, max_lr 최적화 하기
 
 ## 3. 변형 CLR
