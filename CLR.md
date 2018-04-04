@@ -60,8 +60,11 @@ SGD와 함께 쓰여 위에 있는 다른 optimizer대용으로 사용할 수도
 
 ### Epoch, Iterations, Cycles, Stepsize와의 관계
 한 사이클 동안 학습 속도가 base_lr 속도에서 max_lr 속도로 바뀌고 다시 되돌아 가는 것을 반복하는 것으로 정의합니다.
+
 stepsize는 주기의 절반입니다. 
+
 이 경우 cycle이 반드시 epoch 경계에 속할 필요는 없습니다.
+
 <img src="http://teleported.in/post_imgs/15-clr-triangle.png">
 
 ### Learning rate 계산방식
